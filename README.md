@@ -10,21 +10,29 @@ The purpose of this paper is to verify the functional correctness of a specific 
 **Experimental results**
 
 ![alt text](fig01.png)
+
 A SICN-oriented Process Model and Four Transition Types of Structural Process Patterns
 
 
 ![alt text](fig04.png)
+
 The Implemented ρ-Algorithm: Functional Framework of the SICN-oriented Process Mining System
 
+![alt text](fig07.png)
+
+The V&V Experiment-2 (Matched-Pairing Violation but Sound): the Control Summary SICN-oriented Process Model Discovered by the Implemented ρ-Algorithm
+
 ![alt text](fig08.png)
+
 The Event-Trace Distribution Analysis of the Control Summary Process Dataset
 
 ![alt text](table01.png)
+
 The Discovered Control-Path Analysis of the Control Summary Process Dataset
 
 
 **Conclusion**
 
-Conclusively, through these four scenarios of the V\&V experiments we were able to evidently confirmed that the $\rho$-$Algorithm$ and its implemented system works perfectly for those process event log datasets recorded from all the different classes of business process models spanning not only the traditional business process models like productional and transactional process models but also the advanced and modern business process models supporting the knowledge-based and intelligence-based workers and performers like collaborative process models and adaptational process models.
+Conclusively, through these four scenarios of the V&V experiments we were able to evidently confirmed that the p-Algorithm and its implemented system works perfectly for those process event log datasets recorded from all the different classes of business process models spanning not only the traditional business process models like productional and transactional process models but also the advanced and modern business process models supporting the knowledge-based and intelligence-based workers and performers like collaborative process models and adaptational process models.
 As the future research of the paper, we need to carry out another rounds of the V\&V experiments for the next generation SICN-oriented process mining algorithm and system that is an extended version not only to discover all the complicated combination and compound fashion of the structured information control net process models, but also to properly deal with any types of noises embedded in the process event log datasets.
 
