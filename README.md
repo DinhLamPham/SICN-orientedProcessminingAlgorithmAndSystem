@@ -14,19 +14,22 @@ The purpose of this paper is to verify the functional correctness of a specific 
 A SICN-oriented Process Model and Four Transition Types of Structural Process Patterns
 
 
-![alt text](fig04.png)
+![Fig04](fig04.png)
 
 The Implemented ρ-Algorithm: Functional Framework of the SICN-oriented Process Mining System
 
-![alt text](fig07.png)
+![Fig07](fig07.png)
 
 The V&V Experiment-2 (Matched-Pairing Violation but Sound): the Control Summary SICN-oriented Process Model Discovered by the Implemented ρ-Algorithm
 
-![alt text](fig08.png)
+![Fig08](fig08.png)
 
 The Event-Trace Distribution Analysis of the Control Summary Process Dataset
 
-![alt text](table01.png)
+![Fig09](fig09.png)
+The Critical SICN-oriented Process Model and the Exceptional SICN-oriented Process Model from the Control Summary Process Dataset
+
+![Fig10](table01.png)
 
 The Discovered Control-Path Analysis of the Control Summary Process Dataset
 
