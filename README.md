@@ -2,7 +2,7 @@
 
 This repository contains the System described in the paper entitled "Experimental Verification and Validation of the SICN-oriented Process Mining Algorithm and System"
 
-To install and run the system, see [_Install.md_](../install.md)
+To install and run the system, see _Install.md_
 
 **Paper summary**
 
