@@ -9,5 +9,10 @@ The purpose of this paper is to verify the functional correctness of a specific 
 
 **Experimental results**
 
-Updating...
+![alt text](fig01.png)
+Figure 1: A SICN-oriented Process Model and Four Transition Types of Structural Process Patterns
+
+![alt text](fig02.png)
+
+![alt text](fig03.png)
 
