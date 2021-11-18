@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XPDLVariables>
+  <Variable>
+    <widthEmptySpace>60</widthEmptySpace>
+    <heightEmptySpace>80</heightEmptySpace>
+    <heightEmptyInsideGroup>20</heightEmptyInsideGroup>
+    <nodeWidth>40</nodeWidth>
+    <nodeHeight>40</nodeHeight>
+    <xLeftBorder>20</xLeftBorder>
+    <xRightBorder>900</xRightBorder>
+    <startPosition>Left</startPosition>
+  </Variable>
+</XPDLVariables>

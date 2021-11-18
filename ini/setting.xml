@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphviz>
+  <graphvizNode id="NormalNode">
+    <shape>circle</shape>
+    <size>1.0</size>
+    <bordercolor>#0000cc</bordercolor>
+    <fillcolor>#cccccc</fillcolor>
+  </graphvizNode>
+  <graphvizNode id="And-Gate">
+    <shape>circle</shape>
+    <size>0.6</size>
+    <bordercolor>#333333</bordercolor>
+    <fillcolor>#ffffff</fillcolor>
+  </graphvizNode>
+  <graphvizNode id="Or-Gate">
+    <shape>circle</shape>
+    <size>0.2</size>
+    <bordercolor>#333333</bordercolor>
+    <fillcolor>#ffffff</fillcolor>
+  </graphvizNode>
+  <graphvizNode id="Loop-Gate">
+    <shape>doublecircle</shape>
+    <size>0.2</size>
+    <bordercolor>#333333</bordercolor>
+    <fillcolor>#ff0000</fillcolor>
+  </graphvizNode>
+  <graphvizNode id="Cluster">
+    <nodesep>1.0</nodesep>
+    <ranksep>4.0</ranksep>
+    <rankdir>LR</rankdir>
+  </graphvizNode>
+  <graphvizNode id="Left-Cluster">
+    <shape/>
+    <size/>
+    <bordercolor/>
+    <fillcolor>#00cc66</fillcolor>
+  </graphvizNode>
+  <graphvizNode id="Right-Cluster">
+    <shape/>
+    <size/>
+    <bordercolor/>
+    <fillcolor>#ff9900</fillcolor>
+  </graphvizNode>
+</graphviz>
